@@ -1,5 +1,5 @@
 # Serverless - CombinationAPI
 
-El proyecto recoge datos de una API1 y los envía a una API2 para realizar la conversión a la moneda correspondiente según un parámetro de consulta.
+The project collects data from an API1 and sends it to an API2 to perform the conversion to the corresponding currency according to a query param.
 
-Se utiliza una pasarela de API para que esté disponible y, a continuación, los datos se obtienen y se convierten mediante funciones sin servidor.
+An API gateway is used to make it available, and then the data is obtained and converted using serverless functions.
